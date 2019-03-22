@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Bob",
+    "age": 23,
+    "gender": "male"
+  },
+  {
+    "name": "李小根",
+    "age": 22,
+    "gender": "男"
+  }
+]
